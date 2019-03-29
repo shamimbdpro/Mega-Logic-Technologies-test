@@ -1,0 +1,39 @@
+{
+    "user": [
+        {
+            "id": "1",
+            "name": "shamim",
+            "username": "shamim",
+            "email": "shamimtpi@gmail.com",
+            "password": "shamim"
+        },
+        {
+            "id": "62",
+            "name": "hasah",
+            "username": "shamim",
+            "email": "codepopular@gmail.com",
+            "password": "123456"
+        },
+        {
+            "id": "63",
+            "name": "hasah",
+            "username": "hasandfsdfgg",
+            "email": "codepopdfgdfgular@gmail.com",
+            "password": "dfgdfgfdg"
+        },
+        {
+            "id": "65",
+            "name": "addnewuser",
+            "username": "addnewuser",
+            "email": "addnewuser@gmail.com",
+            "password": "addnewuser"
+        },
+        {
+            "id": "67",
+            "name": "shamim",
+            "username": "shamim",
+            "email": "shamim@gmail.com",
+            "password": "shamim"
+        }
+    ]
+}
